@@ -58,8 +58,11 @@ I'm a passionate **full-stack developer and data scientist** based in **Lahore, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadaslam18321-alt&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadaslam18321-alt&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height="180"/>
+
+  [![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahadaslam18321-alt&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/AnuragHazra/github-readme-stats)
+  
+  [![Fahad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadaslam18321-alt&theme=radical&layout=compact)](https://github.com/AnuragHazra/github-readme-stats)
+
 </div>
 
 ---
