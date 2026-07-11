@@ -55,11 +55,20 @@ I'm a passionate **full-stack developer and data scientist** based in **Lahore, 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadaslam18321-alt&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Fahad's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadaslam18321-alt&theme=radical&layout=compact" alt="Fahad's Top Languages" height="180" />
+
+  <!-- GitHub Trophies (Automated & Stable) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fahadaslam18321-alt&theme=radical&column=4" alt="Fahad's GitHub Trophies" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Alternative Super-Stable Stats Card -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahadaslam18321-alt&show_icons=true&theme=radical&count_private=true" alt="Fahad's GitHub Stats" height="180" />
+
 </div>
 
 ---
