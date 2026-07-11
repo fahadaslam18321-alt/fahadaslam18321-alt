@@ -58,10 +58,8 @@ I'm a passionate **full-stack developer and data scientist** based in **Lahore, 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <!-- Alternative Activity Graph Card -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadaslam18321-alt&theme=github-dark" alt="Fahad's GitHub Activity Graph" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=fahadaslam18321-alt&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Fahad's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadaslam18321-alt&theme=radical&layout=compact" alt="Fahad's Top Languages" height="180" />
 </div>
 
 ---
