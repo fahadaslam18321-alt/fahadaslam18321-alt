@@ -55,15 +55,6 @@ Currently pursuing my **Bachelor of Science in Computer Science (BSCS)**, I focu
 
 ## 📊 GitHub Stats & Achievements
 
-<div align="center">
-
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fahadaslam18321-alt&theme=radical&column=4" alt="Fahad's GitHub Trophies" />
-  </a>
-
-  <br/><br/>
-
   <!-- Alternative Super-Stable Stats Card -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahadaslam18321-alt&show_icons=true&theme=radical&count_private=true" alt="Fahad's GitHub Stats" height="180" />
   
