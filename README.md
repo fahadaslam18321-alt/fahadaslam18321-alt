@@ -67,6 +67,16 @@ Currently pursuing my **Bachelor of Science in Computer Science (BSCS)**, I focu
 
 ## 🏆 Featured Projects
 
+### 1️⃣ **AuraDine — Premium Restaurant Management System**
+An enterprise-grade restaurant operations suite combining POS billing, live order pipelines, dynamic floor layout tracking, automated inventory control, and Google Gemini AI insights.
+- 🌐 **Live Demo:** [auradine-premium-restaurant-management-system](https://auradine-premium-restaurant-management-system-719220870476.asia-southeast1.run.app/)
+- **Key Highlights:**
+  - **Role-Based Access Control (RBAC):** Strict JWT-authenticated role management for **Admin**, **Manager**, and **Cashier**.
+  - **AI Business Intelligence:** Integrated Google Gemini API for strategic business reports and automated stock/sales predictions.
+  - **Live Order & POS Terminal:** Fast cart checkout, multi-payment options, printable invoices, and real-time kanban order pipelines.
+  - **Enterprise Audit Trail:** Comprehensive activity logging for sensitive server-side mutations.
+- 📊 **Tech Stack:** React 19, TypeScript, Vite, Express.js, Tailwind CSS v4, Motion, Recharts, Google Gemini SDK (`@google/genai`)
+
 ### 1️⃣ **Career Compass AI (AI Placement Hub)**
 A polished, modern SaaS-style application built for student career readiness, offering dynamic resume optimization and placement metrics.
 - 🔗 **Repository:** [career-compass-ai](https://github.com/fahadaslam18321-alt/career-compass-ai)
