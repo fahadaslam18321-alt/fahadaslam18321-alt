@@ -71,8 +71,8 @@ Currently pursuing my **Bachelor of Science in Computer Science (BSCS)**, I focu
 
 An end-to-end career automation platform engineered to streamline application tracking, extract job insights via Gemini API, generate ATS-tailored documents, and visualize candidate-job fit.
 
-🔗 **Repository:** [JobPulse-AI-Job-Automation](https://github.com/fahadaslam18321-alt)
-
+🔗 **Repository:** [JobPulse-AI-Job-Automation](https://github.com/fahadaslam18321-alt/ai-job-automation-tracker)  
+🌐 **Live Demo:** [AI Job Automation Tracker](https://ai-job-automation-tracker.ai.studio)
 **Key Features:**
 - 🤖 **AI Job Auto-Fill:** Extracts role details, salary, location, and skill requirements from raw job posting text via Google Gemini API.
 - 📄 **ATS Resume & Cover Letter Generator:** Automatically tailors resumes with high-impact bullet points and custom cover letters matched to job descriptions.
@@ -83,8 +83,9 @@ An end-to-end career automation platform engineered to streamline application tr
 
 ### 2️⃣ **AuraDine — Premium Restaurant Management System**
 An enterprise-grade restaurant operations suite combining POS billing, live order pipelines, dynamic floor layout tracking, automated inventory control, and Google Gemini AI insights.
-- 🌐 **Live Demo:** [auradine-premium-restaurant-management-system](https://auradine-premium-restaurant-management-system-719220870476.asia-southeast1.run.app/)
-- **Key Highlights:**
+🔗 **Repository:** [auradine-restaurant-system](https://github.com/fahadaslam18321-alt/auradine-restaurant-system)  
+🌐 **Live Demo:** [auradine-premium-restaurant-management-system](https://auradine-premium-restaurant-management-system-719220870476.asia-southeast1.run.app/)
+**Key Highlights:**
   - **Role-Based Access Control (RBAC):** Strict JWT-authenticated role management for **Admin**, **Manager**, and **Cashier**.
   - **AI Business Intelligence:** Integrated Google Gemini API for strategic business reports and automated stock/sales predictions.
   - **Live Order & POS Terminal:** Fast cart checkout, multi-payment options, printable invoices, and real-time kanban order pipelines.
@@ -94,7 +95,7 @@ An enterprise-grade restaurant operations suite combining POS billing, live orde
 ### 3️ **Career Compass AI (AI Placement Hub)**
 A polished, modern SaaS-style application built for student career readiness, offering dynamic resume optimization and placement metrics.
 - 🔗 **Repository:** [career-compass-ai](https://github.com/fahadaslam18321-alt/career-compass-ai)
-- 🌐 **Live Demo:** [ai-placement-hub-01.lovable.app](https://ai-placement-hub-01.lovable.app)
+- 🌐 **Live Demo:** [ai-placement-hub-01.lovable.app](https://ai-placement-hub-01.lovable.app) 
 - **Key Highlights:**
   - Integrated ATS scoring algorithms for resume reviews.
   - Smart analytics visualization dashboards using Recharts.
