@@ -55,6 +55,8 @@ Currently pursuing my **Bachelor of Science in Computer Science (BSCS)**, I focu
 
 ## 📊 GitHub Stats & Achievements
 
+<div align="center">
+
   <!-- Alternative Super-Stable Stats Card -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahadaslam18321-alt&show_icons=true&theme=radical&count_private=true" alt="Fahad's GitHub Stats" height="180" />
   
@@ -71,8 +73,9 @@ Currently pursuing my **Bachelor of Science in Computer Science (BSCS)**, I focu
 
 An end-to-end career automation platform engineered to streamline application tracking, extract job insights via Gemini API, generate ATS-tailored documents, and visualize candidate-job fit.
 
-🔗 **Repository:** [JobPulse-AI-Job-Automation](https://github.com/fahadaslam18321-alt/ai-job-automation-tracker)  
-🌐 **Live Demo:** [AI Job Automation Tracker](https://ai-job-automation-tracker.ai.studio)
+- 🔗 **Repository:** [JobPulse-AI-Job-Automation](https://github.com/fahadaslam18321-alt/ai-job-automation-tracker)  
+- 🌐 **Live Demo:** [AI Job Automation Tracker](https://ai-job-automation-tracker.ai.studio)
+
 **Key Features:**
 - 🤖 **AI Job Auto-Fill:** Extracts role details, salary, location, and skill requirements from raw job posting text via Google Gemini API.
 - 📄 **ATS Resume & Cover Letter Generator:** Automatically tailors resumes with high-impact bullet points and custom cover letters matched to job descriptions.
@@ -81,76 +84,104 @@ An end-to-end career automation platform engineered to streamline application tr
 
 📊 **Tech Stack:** React 19, TypeScript, Node.js, Express.js, Tailwind CSS v4, Google Gemini API, Recharts, jsPDF, Vite
 
-### 2️⃣ **AuraDine — Premium Restaurant Management System**
-An enterprise-grade restaurant operations suite combining POS billing, live order pipelines, dynamic floor layout tracking, automated inventory control, and Google Gemini AI insights.
-🔗 **Repository:** [auradine-restaurant-system](https://github.com/fahadaslam18321-alt/auradine-restaurant-system)  
-🌐 **Live Demo:** [auradine-premium-restaurant-management-system](https://auradine-premium-restaurant-management-system-719220870476.asia-southeast1.run.app/)
-**Key Highlights:**
-  - **Role-Based Access Control (RBAC):** Strict JWT-authenticated role management for **Admin**, **Manager**, and **Cashier**.
-  - **AI Business Intelligence:** Integrated Google Gemini API for strategic business reports and automated stock/sales predictions.
-  - **Live Order & POS Terminal:** Fast cart checkout, multi-payment options, printable invoices, and real-time kanban order pipelines.
-  - **Enterprise Audit Trail:** Comprehensive activity logging for sensitive server-side mutations.
-- 📊 **Tech Stack:** React 19, TypeScript, Vite, Express.js, Tailwind CSS v4, Motion, Recharts, Google Gemini SDK (`@google/genai`)
+---
 
-### 3️ **Career Compass AI (AI Placement Hub)**
+### 2️⃣ AuraDine — Premium Restaurant Management System
+An enterprise-grade restaurant operations suite combining POS billing, live order pipelines, dynamic floor layout tracking, automated inventory control, and Google Gemini AI insights.
+- 🔗 **Repository:** [auradine-restaurant-system](https://github.com/fahadaslam18321-alt/auradine-restaurant-system)  
+- 🌐 **Live Demo:** [AuraDine Live Preview](https://auradine-premium-restaurant-management-system-719220870476.asia-southeast1.run.app/)
+
+**Key Highlights:**
+- **Role-Based Access Control (RBAC):** Strict JWT-authenticated role management for **Admin**, **Manager**, and **Cashier**.
+- **AI Business Intelligence:** Integrated Google Gemini API for strategic business reports and automated stock/sales predictions.
+- **Live Order & POS Terminal:** Fast cart checkout, multi-payment options, printable invoices, and real-time kanban order pipelines.
+- **Enterprise Audit Trail:** Comprehensive activity logging for sensitive server-side mutations.
+
+📊 **Tech Stack:** React 19, TypeScript, Vite, Express.js, Tailwind CSS v4, Motion, Recharts, Google Gemini SDK (`@google/genai`)
+
+---
+
+### 3️⃣ Career Compass AI (AI Placement Hub)
 A polished, modern SaaS-style application built for student career readiness, offering dynamic resume optimization and placement metrics.
 - 🔗 **Repository:** [career-compass-ai](https://github.com/fahadaslam18321-alt/career-compass-ai)
-- 🌐 **Live Demo:** [ai-placement-hub-01.lovable.app](https://ai-placement-hub-01.lovable.app) 
-- **Key Highlights:**
-  - Integrated ATS scoring algorithms for resume reviews.
-  - Smart analytics visualization dashboards using Recharts.
-  - Clean modular frontend state management.
-- 📊 **Tech Stack:** TypeScript, React (Vite), Tailwind CSS, Recharts, Lucide React
+- 🌐 **Live Demo:** [AI Placement Hub](https://ai-placement-hub-01.lovable.app)
 
-### 4️ **eShop Enterprise DBMS Dashboard**
+**Key Highlights:**
+- Integrated ATS scoring algorithms for resume reviews.
+- Smart analytics visualization dashboards using Recharts.
+- Clean modular frontend state management.
+
+📊 **Tech Stack:** TypeScript, React (Vite), Tailwind CSS, Recharts, Lucide React
+
+---
+
+### 4️⃣ eShop Enterprise DBMS Dashboard
 An advanced enterprise database management interface demonstrating intricate database engineering concepts.
 - 🔗 **Repository:** [eshop-enterprise-dbms](https://github.com/fahadaslam18321-alt/eshop-enterprise-dbms)
 - 🌐 **Live Demo:** [eShop Frontend on Hugging Face Spaces](https://huggingface.co/spaces/fahadaslam18321/eshop-frontend)
-- **Database Engineering Highlights:**
-  - **6 Stored Procedures** deployed for performance-critical data filtering.
-  - **7 SQL Views** mapped for highly organized, aggregate reporting.
-  - **5 Complex SQL Joins** executing relational linkages.
-  - Formulated robust SQL Triggers and transaction models ensuring data integrity.
-- 📊 **Tech Stack:** Python, Streamlit, MS SQL Server, Hugging Face Spaces
 
-### 5️⃣ **ELUX - The Next-Gen Storefronts**
+**Database Engineering Highlights:**
+- **6 Stored Procedures** deployed for performance-critical data filtering.
+- **7 SQL Views** mapped for highly organized, aggregate reporting.
+- **5 Complex SQL Joins** executing relational linkages.
+- Formulated robust SQL Triggers and transaction models ensuring data integrity.
+
+📊 **Tech Stack:** Python, Streamlit, MS SQL Server, Hugging Face Spaces
+
+---
+
+### 5️⃣ ELUX - The Next-Gen Storefronts
 A comparative evolution of e-commerce storefront development ranging from high-performance modern architectures to traditional MVC platforms.
-*   **Modern Variant (Next.js 14):**
-    - 🔗 **Repository:** [elux-fixed](https://github.com/fahadaslam18321-alt/elux-fixed)
-    - 🌐 **Live Demo:** [elux-fixed.vercel.app](https://elux-fixed.vercel.app/)
-    - *Highlights:* Next.js App Router, advanced Suspense boundaries, strict typing, and high-speed Vercel CDN asset serving.
-*   **Traditional Variant (PHP/MySQL):**
-    - 🔗 **Repository:** [ELUX-The-Future-of-Online-Shopping](https://github.com/fahadaslam18321-alt/ELUX-The-Future-of-Online-Shopping)
-    - *Highlights:* Classic LAMP backend structure, shopping cart operations, registration flows, and an interactive admin statistics control board using AJAX.
-- 💻 **Tech Stack:** Next.js 14, React, PHP, MySQL, Bootstrap, JavaScript, AJAX, Vercel
 
-### 6️⃣  **eShop Analytics Management Dashboard**
+* **Modern Variant (Next.js 14):**
+  - 🔗 **Repository:** [elux-fixed](https://github.com/fahadaslam18321-alt/elux-fixed)
+  - 🌐 **Live Demo:** [elux-fixed.vercel.app](https://elux-fixed.vercel.app/)
+  - *Highlights:* Next.js App Router, advanced Suspense boundaries, strict typing, and high-speed Vercel CDN asset serving.
+* **Traditional Variant (PHP/MySQL):**
+  - 🔗 **Repository:** [ELUX-The-Future-of-Online-Shopping](https://github.com/fahadaslam18321-alt/ELUX-The-Future-of-Online-Shopping)
+  - *Highlights:* Classic LAMP backend structure, shopping cart operations, registration flows, and an interactive admin statistics control board using AJAX.
+
+📊 **Tech Stack:** Next.js 14, React, PHP, MySQL, Bootstrap, JavaScript, AJAX, Vercel
+
+---
+
+### 6️⃣ eShop Analytics Management Dashboard
 An enterprise-grade administrative suite with rich visualization widgets and data import/export utilities.
 - 🔗 **Repository:** [eshop-analytics-management-dashboard](https://github.com/fahadaslam18321-alt/eshop-analytics-management-dashboard)
 - 🌐 **Live Demo:** [orderly-vision-suite.vercel.app](https://orderly-vision-suite.vercel.app/)
-- **Key Features:**
-  - Real-time client-side simulation of database mutations.
-  - Interactive charting layouts for complex operational reporting.
-  - Responsive structural layout built using strict TypeScript paradigms.
-- 📊 **Tech Stack:** React (Vite / TanStack), TypeScript, Tailwind CSS, Recharts
 
-### 7️⃣ **Restaurant Management System (RMS)**
+**Key Features:**
+- Real-time client-side simulation of database mutations.
+- Interactive charting layouts for complex operational reporting.
+- Responsive structural layout built using strict TypeScript paradigms.
+
+📊 **Tech Stack:** React (Vite / TanStack), TypeScript, Tailwind CSS, Recharts
+
+---
+
+### 7️⃣ Restaurant Management System (RMS)
 An enterprise-grade console software demonstrating absolute mastery over Object-Oriented Design and memory management in low-level systems.
 - 🔗 **Repository:** [Restaurant-Management-System](https://github.com/fahadaslam18321-alt/Restaurant-Management-System)
-- **CS Fundamentals & DSA Highlights:**
-  - Custom implementations of **Binary Search Trees (BST)** for swift menu lookups.
-  - **Stack** and **Hash Tables** utilized for real-time table reservation queues.
-  - Rigorous OOP design (Inheritance, Polymorphism, Encapsulation) and File I/O for secure persistent records.
-- 🛠️ **Tech Stack:** C++, Data Structures & Algorithms, File I/O
 
-### 8️⃣ **SuperMarket Sales Prediction Pipeline**
+**CS Fundamentals & DSA Highlights:**
+- Custom implementations of **Binary Search Trees (BST)** for swift menu lookups.
+- **Stack** and **Hash Tables** utilized for real-time table reservation queues.
+- Rigorous OOP design (Inheritance, Polymorphism, Encapsulation) and File I/O for secure persistent records.
+
+🛠️ **Tech Stack:** C++, Data Structures & Algorithms, File I/O
+
+---
+
+### 8️⃣ SuperMarket Sales Prediction Pipeline
 An end-to-end Machine Learning data science pipeline that normalizes transactional records and makes target forecasts.
 - 🔗 **Repository:** [SuperMarket-Sales-Prediction-Pipeline](https://github.com/fahadaslam18321-alt/SuperMarket-Sales-Prediction-Pipeline)
-- **Pipeline Architecture:**
-  - **Phase 1 & 2:** Imputation of null values alongside text standardizations.
-  - **Phase 3 & 4:** Outlier treatment, feature scaling, and category label encoding.
-  - **Evaluation:** Achieved an **R² score of 0.887 (88.7%)** utilizing Linear Regression modeling.
-- 📊 **Tech Stack:** Python, Jupyter Notebooks, Pandas, NumPy, Scikit-Learn
+
+**Pipeline Architecture:**
+- **Phase 1 & 2:** Imputation of null values alongside text standardizations.
+- **Phase 3 & 4:** Outlier treatment, feature scaling, and category label encoding.
+- **Evaluation:** Achieved an **R² score of 0.887 (88.7%)** utilizing Linear Regression modeling.
+
+📊 **Tech Stack:** Python, Jupyter Notebooks, Pandas, NumPy, Scikit-Learn
 
 ---
 
@@ -159,7 +190,7 @@ An end-to-end Machine Learning data science pipeline that normalizes transaction
 <div align="center">
   
   [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahadaslam.18321@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahadaslam)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahadaslam-dev)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahadaslam18321-alt)
 
 </div>
